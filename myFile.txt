@@ -1,0 +1,70 @@
+1question
+Which class is parent of all the classes in Java?
+Super
+Sub
+Object
+class
+3
+2question
+How many primitive data types in Java?
+6
+7
+8
+9
+3
+3question
+Which of the following automatic type coversion will be possible?
+short to int
+long to int
+int to long
+byte to int
+3
+4question
+toString() method is defined in
+java.lang.String
+java.lang.Object
+java.lang.util
+None of these
+1
+5question
+The String method compareTO() returns
+boolean
+int
+String
+Object
+1
+6question
+Which class is parent of all the classes in Java?
+Super
+Sub
+Object
+class
+3
+7question
+How many primitive data types in Java?
+6
+7
+8
+9
+3
+8question
+Which of the following automatic type coversion will be possible?
+short to int
+long to int
+int to long
+byte to int
+3
+9question
+toString() method is defined in
+java.lang.String
+java.lang.Object
+java.lang.util
+None of these
+1
+10question
+The String method compareTO() returns
+boolean
+int
+String
+Object
+1
